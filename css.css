@@ -13,9 +13,79 @@ main{
 
 }
 
-/* блок footer */
-footer{
 
+
+
+/* блок footer */
+.title,
+.title_main,
+.addres{
+    margin: 0;  /* обнуление отступов в блоке footer */
+
+    color: #555555;
+}
+
+.content{
+    max-width: 780px;
+    margin: 0 auto;
+    
+    text-align: center;
+}
+
+footer{
+    background-color: #010101;
+}
+
+.title{
+    color: #fcdb00;
+    font-size:  32px;
+
+    padding-top: 100px;
+}
+
+.title_main{
+    font-size: 20px;
+
+    padding-top: 8px;
+}
+
+form{
+    padding-top: 70px;
+}
+
+input{
+    font-size: 16px;
+}
+
+.label{
+    box-sizing: border-box;
+    width: 580px;
+    margin-right: 20px;
+    padding: 15px 0 15px 23px;
+}
+
+.button{
+    width: 130px;
+    padding: 15px 0;
+    text-align: center;
+    background-color: #fcdb00;
+}
+
+.label,
+.button{
+    border-width: 0;
+    border-radius: 7px;
+}
+
+.button{
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+
+.addres{
+    padding-top: 50px;
+    padding-bottom: 95px;
 }
 
 /* 
