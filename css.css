@@ -9,8 +9,28 @@ header{
 }
 
 /* блок main */
-main{
+main h1 {
+text-align: center;
+}
+.text
+{
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+}
 
+.текст
+{
+  text-align:left;
+  width: 45%;
+}
+
+.колонки
+{
+    column-count: 3;
+    
+    
+ 
 }
 
 /* блок footer */
