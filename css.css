@@ -56,58 +56,9 @@ body
     float: right;
 }
 /* блок main */
-main h1 {
-text-align: center;
-}
-.text
+main
 {
-    text-align: center;
-    color: gray;
-    font-size: 20px;
-    margin: 25px;
-}
 
-.текст1
-{
-  text-align:left;
-  width: 45%;
-  margin: 0 auto;
-}
-.текст2
-{
-  text-align:left;
-  width: 45%;
-  margin: 0 auto;
-  
-}
-.текст3
-{
-  text-align:left;
-  width: 45%;
-  float: left;
-  margin: 0 auto;   
-}
-.колонки
-{
-    column-count: 3;
-}
-
-.картинка1
-{
-    float: left;
-    margin-left: 17%;
-    margin-right: 25px;
-}
-.картинка2
-{
-    float: left;
-    margin-left: 17%;
-    margin-right: 25px; 
-}
-.картинка3
-{
-    float: left;
-    margin-right: 30px;
 }
 
 
