@@ -12,12 +12,10 @@ body
     height: 736px;
     width: 100%;
     margin: 0;
-
 }
-.contentHeader
+.container
 {
-    width: 1140px;
-    margin: 0 auto;
+    border-style: solid;
 }
 .navClass
 {
@@ -37,30 +35,25 @@ body
 }
 .container_left
 {
+    border-style: solid;
     float: left;
-    margin-right: 150px;
 }
 .h2text
 {
+    border-style: solid;
 }
 .ptext
 {
+    border-style: solid;
 }
 .ptextLow
 {
+    border-style: solid;
 }
 .container_right
 {
-    margin-left: 100px;
-}
-.Ul2
-{
-    display: flex;
-    align-items: center;
-}
-.buttons li
-{
-    list-style-type:none;
+    border-style: solid;
+    float: right;
 }
 /* блок main */
 main
