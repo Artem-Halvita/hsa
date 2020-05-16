@@ -11,25 +11,6 @@ header{
 /* блок main */
 main{
 
-<<<<<<< Updated upstream
-=======
-
-
-/* блок footer */
-.titleFooter,
-.title_mainFooter,
-.addresFooter,
-.buttonFooter{
-    margin: 0;  /* обнуление отступов в блоке footer */
-    padding: 0;
-}
-
-.contentFooter{
-    max-width: 780px;
-    margin: 0 auto;
-    
-    text-align: center;
->>>>>>> Stashed changes
 }
 
 
@@ -52,42 +33,17 @@ main{
 }
 
 footer{
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-
-=======
-    background-color: #010101;
-    color: #555555;
-}
-
-.titleFooter{
-=======
->>>>>>> Stashed changes
     background-color: #010101;
 }
 
 .title{
-<<<<<<< Updated upstream
-=======
->>>>>>> 531ede3ec82db2b56660683ea9bea509846e45c9
->>>>>>> Stashed changes
     color: #fcdb00;
     font-size:  32px;
 
     padding-top: 100px;
 }
 
-<<<<<<< Updated upstream
 .title_main{
-=======
-<<<<<<< HEAD
-.title_mainFooter{
-=======
-.title_main{
->>>>>>> 531ede3ec82db2b56660683ea9bea509846e45c9
->>>>>>> Stashed changes
     font-size: 20px;
 
     padding-top: 8px;
@@ -101,87 +57,35 @@ input{
     font-size: 16px;
 }
 
-<<<<<<< Updated upstream
 .label{
-=======
-<<<<<<< HEAD
-.labelFooter{
-=======
-.label{
->>>>>>> 531ede3ec82db2b56660683ea9bea509846e45c9
->>>>>>> Stashed changes
     box-sizing: border-box;
     width: 580px;
     margin-right: 20px;
     padding: 15px 0 15px 23px;
 }
 
-<<<<<<< Updated upstream
 .button{
     width: 130px;
     padding: 15px 0;
-=======
-<<<<<<< HEAD
-.buttonFooter{
-    width: 130px;
-    padding: 15px 0;
-    font-size: 16px;
-=======
-.button{
-    width: 130px;
-    padding: 15px 0;
->>>>>>> 531ede3ec82db2b56660683ea9bea509846e45c9
->>>>>>> Stashed changes
     text-align: center;
     background-color: #fcdb00;
 }
 
-<<<<<<< Updated upstream
 .label,
 .button{
-=======
-<<<<<<< HEAD
-.labelFooter,
-.buttonFooter{
-=======
-.label,
-.button{
->>>>>>> 531ede3ec82db2b56660683ea9bea509846e45c9
->>>>>>> Stashed changes
     border-width: 0;
     border-radius: 7px;
 }
 
-<<<<<<< Updated upstream
 .button{
-=======
-<<<<<<< HEAD
-.buttonFooter{
-=======
-.button{
->>>>>>> 531ede3ec82db2b56660683ea9bea509846e45c9
->>>>>>> Stashed changes
     text-transform: uppercase;
     font-weight: 700;
 
 }
 
-<<<<<<< Updated upstream
 .addres{
     padding-top: 50px;
     padding-bottom: 95px;
-=======
-<<<<<<< HEAD
-.addresFooter{
-    padding-top: 50px;
-    padding-bottom: 95px;
->>>>>>> Stashed changes
-=======
-.addres{
-    padding-top: 50px;
-    padding-bottom: 95px;
->>>>>>> 531ede3ec82db2b56660683ea9bea509846e45c9
->>>>>>> Stashed changes
 }
 
 /* 
